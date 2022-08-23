@@ -9,4 +9,4 @@ Learning branching strategies
 some chage
 Demo of git conflict
 This change is done by developer 2
-apple are good for health
+apples are good for health

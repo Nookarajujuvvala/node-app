@@ -1,2 +1,3 @@
-Hari works on aws, devops and java
 apple are good for health
+raju learing aws,devops and java
+
